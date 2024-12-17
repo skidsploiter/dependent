@@ -8,7 +8,7 @@ def run(c):
     os.system(c)
 
 gr()
-p("INDEPENDENT - An app to download ependencies for Roblox Exploits. Lightweight, fast.")
+p("INDEPENDENT - An app to download dependencies for Roblox Exploits. Lightweight, fast.")
 p("https://github.com/skidsploiter/dependent")
 p("Welcome!")
 print()
